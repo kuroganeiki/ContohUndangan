@@ -1,0 +1,2 @@
+# ContohUndangan
+UndanganSeseorang
